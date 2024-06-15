@@ -375,10 +375,10 @@ http://38.56.118.88:4000/play/a01s/index.m3u8
 #EXTINF:-1,││ ESPN 4 extra
 http://38.56.118.88:4000/play/a028/index.m3u8
 
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1,   ESPN 5HD
 http://38.56.118.88:4000/play/a07r/index.m3u8
 
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1,   ESPN 6HD
 http://38.56.118.88:4000/play/a07t/index.m3u8
 
 #EXTINF:-1,││ ESPN 7
