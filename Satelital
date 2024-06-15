@@ -6,7 +6,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
 https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,││ Canal 2  Mar del Plata
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0148
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0150
 
 #EXTINF:-1,││  AMERICA 2 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -15,13 +15,13 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99765
 
 #EXTINF:-1,││ Canal 8  Mar del Plata 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
 
 #EXTINF:-1,││ el nueve 
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162342
 
 #EXTINF:-1,││  Canal 10  Mar del Plata 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0153
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0155
 
 #EXTINF:-1,││ elTrece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
