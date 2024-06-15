@@ -1,0 +1,502 @@
+#EXTM3U
+#EXTINF:-1,││ Tierra Mia TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
+#EXTINF:-1,││ Tango TV
+https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││ Canal 2  Mar del Plata
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0148
+
+#EXTINF:-1,││  AMERICA 2 
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1,││ TVP  Television Publica 
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99765
+
+#EXTINF:-1,││ Canal 8  Mar del Plata 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+
+#EXTINF:-1,││ el nueve 
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162342
+
+#EXTINF:-1,││  Canal 10  Mar del Plata 
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0153
+
+#EXTINF:-1,││ elTrece 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1,││  13 Max Television 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││ TE LE FE 
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162331
+
+#EXTINF:-1,││TN noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1,││ A24            
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162337
+
+#EXTINF:-1,││ C5N 
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99745
+
+#EXTINF:-1,││ CronicaTv 
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99749
+
+#EXTINF:-1,││ canal 26 
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99747
+
+#EXTINF:-1,││  LN+  
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+
+#EXTINF:-1,││ Canal E          CABA TV Cable BA.
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1,││ Chacra TV        CABA TV Cable BA.
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+
+#EXTINF:-1,││ NETTv                CABA TV Cable BA.
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1,││ Encuentro        CABA TV Cable BA.
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1,││ Hispan TV         CABA TV Cable BA.
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,││ Canal 11 TV - Mar de Ajó ││TV BA Buenos Aires
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1,││ CosmosTv ││ CABA TV Cable BA.
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1,││ Canal 21
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1,││ Canal  22  web
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1,││ Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1,││ Canal 3 La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1,││ Canal 5 Pico Truncado
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1,││ Canal Ciudad  BA.
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0027
+
+#EXTINF:-1,││ Argentinísima Satelital  BA.
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1,││ Canal 10  ││ Rio Negro TV 
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,││ Caras Tv    
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
+#EXTINF:-1,││  DTV    
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0096
+
+
+#EXTINF:-1,       Volver
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99768
+
+#EXTINF:-1,       Cine.AR 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+
+#EXTINF:-1,││  CINE FAMILIAR
+http://177.93.44.174:8900/play/a019
+
+#EXTINF:-1,││ Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+#EXTINF:-1,││ Nuestro Cine Tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,││  Bayres TV 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1,││   a mas+
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159054
+
+#EXTINF:-1,││  Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1,││ UNLP. TV 
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││  Film & Arts
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159179
+
+#EXTINF:-1,││ History Channel
+http://177.93.44.174:8900/play/a001
+
+#EXTINF:-1,││ History2
+http://177.93.44.174:8900/play/a00v
+
+#EXTINF:-1,││ Discovery    CHANNEL
+http://177.93.44.174:8900/play/a00u
+
+#EXTINF:-1,││ Discovery    L.A.
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62828
+
+#EXTINF:-1,││ Discovery    THEATHER
+http://38.56.118.88:4000/play/a01o/index.m3u8
+
+#EXTINF:-1,││ Discovery  Turbo
+http://177.93.44.174:8900/play/a01j
+
+#EXTINF:-1,││ Canal ISB
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+
+#EXTINF:-1,││   Love Nature
+http://177.93.44.174:8900/play/a01r
+
+#EXTINF:-1,││   Nat Geo
+http://177.93.44.174:8900/play/a00j
+
+#EXTINF:-1,││   Animal Planet
+http://177.93.44.174:8900/play/a00p
+
+#EXTINF:-1,││   A&E 
+http://177.93.44.174:8900/play/a002
+
+#EXTINF:-1,││   AMC 
+http://177.93.44.174:8900/play/a00l
+
+#EXTINF:-1,││   AXN
+http://177.93.44.174:8900/play/a005
+
+#EXTINF:-1,││   A3series internacional
+http://38.56.118.88:4000/play/a00w
+
+#EXTINF:-1,││   Europa  Europa
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159176
+
+#EXTINF:-1,││   EURO  CHANNEL
+http://38.56.118.88:4000/play/a09f/index.m3u8
+
+#EXTINF:-1,││   EURO TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+
+#EXTINF:-1,││   EURO+ TV
+http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
+
+#EXTINF:-1,││   CINERAMA Television
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1,││    FX    
+http://177.93.44.174:8900/play/a00i
+
+#EXTINF:-1,││   HBO HD
+http://38.56.118.88:4000/play/a029/index.m3u8
+
+#EXTINF:-1,││   HBO SIGNATURE
+http://38.56.118.88:4000/play/a06p/index.m3u8
+
+#EXTINF:-1,││   HBO Family HD
+http://38.56.118.88:4000/play/a03f/index.m3u8
+
+#EXTINF:-1,││   HBO 2 
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1,││   HBO POP 
+http://38.56.118.88:4000/play/a00c/index.m3u8
+
+#EXTINF:-1,││   STAR Channel
+http://177.93.44.174:8900/play/a00e
+
+#EXTINF:-1,││   FOX
+http://38.56.118.88:4000/play/a044/index.m3u8
+
+#EXTINF:-1,││   UNIVERSAL Channel
+http://177.93.44.174:8900/play/a00f
+
+#EXTINF:-1,││   WARNER HD
+http://177.93.44.174:8900/play/a004
+
+#EXTINF:-1,││   SPACE 
+http://38.56.118.88:4000/play/a009/index.m3u8
+
+#EXTINF:-1,││ GOLDEN 
+http://177.93.44.174:8900/play/a027
+
+#EXTINF:-1,││ GOLDEN Premier
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159230
+
+#EXTINF:-1,││ TNT 
+http://38.56.118.88:4000/play/a00r/index.m3u8
+
+#EXTINF:-1,││ TNT  series
+http://38.56.118.88:4000/play/a01w/index.m3u8
+
+#EXTINF:-1,││ TNT series
+http://38.56.118.88:4000/play/a01w/index.m3u8
+
+#EXTINF:-1,││ TNT  novelas
+http://38.56.118.88:4000/play/a031/index.m3u8
+
+#EXTINF:-1,││ SONY 
+http://177.93.44.174:8900/play/a003
+
+#EXTINF:-1,││ SONY novelas
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/381691
+
+#EXTINF:-1,││ STUDIO UNIVERSAL
+http://177.93.44.174:8900/play/a00o
+
+#EXTINF:-1,││ CINECANAL
+http://177.93.44.174:8900/play/a025
+
+#EXTINF:-1,││ Paramount Network
+http://177.93.44.174:8900/play/a00n
+
+#EXTINF:-1,││  Canal  Infantil
+http://177.93.44.174:8900/play/a021
+
+#EXTINF:-1,││ Baby first
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,││  Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1,││ CARTOON
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,││ CARTOON NETWORK
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/81
+
+#EXTINF:-1,││ Nickelodeon
+http://177.93.44.174:8900/play/a008
+
+#EXTINF:-1,││ DISCOVERY KIDS
+http://177.93.44.174:8900/play/a00c
+
+#EXTINF:-1,││ PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1,││ Disney JR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,││ Disney
+http://177.93.44.174:8900/play/a00x
+
+#EXTINF:-1,││  Global TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+#EXTINF:-1,││  Huila TV  Colombia radio visual
+https://plataformavideo.com:19360/8020/8020.m3u8
+
+#EXTINF:-1,││  DreamForce
+https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
+
+#EXTINF:-1,││   Retro Plus TV  
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││  RETRO MUSIC TV.
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1,││  Retro Recuerdos Channel
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││  V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1,││  VH1 best oldies 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,││   Spectrum Channel 
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,││   MiMusicaHits
+http://177.93.44.174:8900/play/a020
+
+#EXTINF:-1,││ Htv
+http://38.56.118.88:4000/play/a06d/index.m3u8
+
+#EXTINF:-1,││ Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1,││ MTV 
+http://38.56.118.88:4000/play/a038/index.m3u8
+
+#EXTINF:-1,    Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1,    DEPORTV ││ CABA TV Cable BA.
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1,   TYC Sports
+http://38.56.118.88:4000/play/a07w/index.m3u8
+
+#EXTINF:-1,   FOX Sports LA
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62806
+
+#EXTINF:-1,   FOX Sports 1 HD
+http://38.56.118.88:4000/play/a03d/index.m3u8
+
+#EXTINF:-1,   FOX Sports 2 HD
+http://38.56.118.88:4000/play/a01t/index.m3u8
+
+#EXTINF:-1,   FOX Sports 3 HD
+http://38.56.118.88:4000/play/a00t/index.m3u8
+
+#EXTINF:-1,││  FOX Sports 3
+http://38.56.118.88:4000/play/a00t/index.m3u8
+
+#EXTINF:-1,││  FOX Sports 2 / ESPN 7
+http://177.93.44.174:8900/play/a00h
+
+#EXTINF:-1,││  FOX Sports Premium
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158836
+
+#EXTINF:-1,││  USA | SPORTS | FOX SPORTS RACING
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/240030
+
+#EXTINF:-1,││ ESPN 
+http://38.56.118.88:4000/play/a00j/index.m3u8
+
+#EXTINF:-1,││ ESPN 2 arg.
+http://38.56.118.88:4000/play/a00j/index.m3u8
+
+#EXTINF:-1,││ ESPN 2
+http://38.56.118.88:4000/play/a00f/index.m3u8
+
+#EXTINF:-1,││ ESPN 3
+http://38.56.118.88:4000/play/a00s/index.m3u8
+
+#EXTINF:-1,││ ESPN 4
+http://38.56.118.88:4000/play/a01s/index.m3u8
+
+#EXTINF:-1,││ ESPN 4 extra
+http://38.56.118.88:4000/play/a028/index.m3u8
+
+#EXTINF:-1,ESPN 5HD
+http://38.56.118.88:4000/play/a07r/index.m3u8
+
+#EXTINF:-1,ESPN 6HD
+http://38.56.118.88:4000/play/a07t/index.m3u8
+
+#EXTINF:-1,││ ESPN 7
+http://38.56.118.88:4000/play/a07s/index.m3u8
+
+#EXTINF:-1,││ ESPN  Premium
+http://38.56.118.88:4000/play/a07u/index.m3u8
+
+#EXTINF:-1,││ ESPN  Premium  4K
+http://177.93.44.174:8900/play/a00m
+
+#EXTINF:-1,ESPN 2 HD
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99755
+
+#EXTINF:-1,  TNT SPORTS HD
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/99766
+
+#EXTINF:-1,  TNT  deportes   CHILE
+http://38.56.118.88:4000/play/a00a/index.m3u8
+
+#EXTINF:-1,   STARZ 1  solo eventos
+http://181.78.105.146:2000/play/a097/index.m3u8
+
+#EXTINF:-1,  DGO- tv sport  Argentina - solo eventos
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/385526
+
+#EXTINF:-1,  DGO- tv sport 2 Argentina - solo eventos
+http://galaxypro.online:8080/ALEXAGURTO/Violeta1327/375275
+
+#EXTINF:-1,   sky SPORTS
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,   Movistar Sports 
+http://38.56.118.88:4000/play/a02l/index.m3u8
+
+#EXTINF:-1,   Canal 79 Mar del Plata 
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+
+#EXTINF:-1,   Canal 79 Santa Clara del Mar 
+https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
+
+#EXTINF:-1,   Canal 79 La Costa 
+https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
+
+#EXTINF:-1,   Canal 79 San Clemente del Tuyu
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0171
+
+#EXTINF:-1,   Canal 79 Puan 
+https://streamconex.com:1936/puan/puan/playlist.m3u8
+
+#EXTINF:-1,   Canal 79 Villa Maza 
+https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
+
+#EXTINF:-1,    Canal TelPin
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,    Power - Pinamar - BA Buenos Aires
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:-1,    11 TV - Mar de Ajó
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,    3 Arroyos TV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0178
+
+#EXTINF:-1,    Canal 12 Flux - Chubut
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+#EXTINF:-1,    Telenord    Corrientes TV
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1,    El SelloTV ││ Gral Madariaga BA.
+https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
+
+#EXTINF:-1,    Canal Las Flores 
+https://inliveserver.com:1936/8436/8436/chunklist_w502788946.m3u8
+
+#EXTINF:-1,    CNN internacional ││ CABA TV Cable BA.
+http://38.56.118.88:4000/play/a06k/index.m3u8
+
+#EXTINF:-1,    Star tve
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1,     DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1,     Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,      RAI 
+http://38.56.118.88:4000/play/a06n/index.m3u8
+
+#EXTINF:-1,      Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1,      CGTN español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1       Chile Channel TV
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+ #EXTINF:-1,     TRC Television MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+
+#EXTINF:-1        Antena 3 internacional
+http://38.56.118.88:4000/play/a07i
+
+#EXTINF:-1,       France 24 
+http://161.132.108.74:50001/play/a01q/index.m3u8
+
+#EXTINF:-1,       Caracol TV
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62839
+
+#EXTINF:-1,       Telesur            Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1,       Mir 24            Russia 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,       Canal  RT       Russia Tv
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
